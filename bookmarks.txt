@@ -1,4 +1,4 @@
-"Http status codes" "https://en.wikipedia.org/wiki/List_of_HTTP_status_codes"
-"Docker entrypoints" "http://goinbigdata.com/docker-run-vs-cmd-vs-entrypoint"
-"Grizzly example" "http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/apaas/griz-jersey-intro/Grizzly-Jersey-Intro.html"
-"Docker Best Practices" "https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/"
+"Http status codes" https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+"Docker entrypoints" http://goinbigdata.com/docker-run-vs-cmd-vs-entrypoint
+"Grizzly example" http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/apaas/griz-jersey-intro/Grizzly-Jersey-Intro.html
+"Docker Best Practices" https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/

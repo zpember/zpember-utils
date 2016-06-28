@@ -9,5 +9,5 @@ then
 fi
 
 echo "Adding link: $1 $2" 
-echo "\"$1\" \"$2\"" >> $BOOKMARKS
+echo "\"$1\" $2" >> $BOOKMARKS
 bash $DIR/generate_index.sh
