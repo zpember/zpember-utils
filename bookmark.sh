@@ -10,4 +10,4 @@ fi
 
 echo "Adding link: $1 $2" 
 echo "\"$1\" \"$2\"" >> $BOOKMARKS
-./generate_index.sh
+bash $DIR/generate_index.sh
