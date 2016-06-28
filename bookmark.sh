@@ -1,5 +1,6 @@
 #!/bin/bash
-source env.sh
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+BOOKMARKS="$DIR/bookmarks.txt"
 
 if [ "$#" -ne 2 ]
 then

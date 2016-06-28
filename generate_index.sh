@@ -1,5 +1,7 @@
 #!/bin/bash
-source env.sh
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+BOOKMARKS="$DIR/bookmarks.txt"
+HTML="$DIR/index.html"
 
 echo "Generating index.html" 
 mapfile ARRAY < <(sort $BOOKMARKS)
