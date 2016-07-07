@@ -2,3 +2,4 @@
 "Docker entrypoints" http://goinbigdata.com/docker-run-vs-cmd-vs-entrypoint
 "Grizzly example" http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/apaas/griz-jersey-intro/Grizzly-Jersey-Intro.html
 "Docker Best Practices" https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/
+"Jersey - Getting Started" https://jersey.java.net/documentation/latest/getting-started.html
